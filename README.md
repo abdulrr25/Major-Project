@@ -5,10 +5,3 @@ If multiple people buy a course from the same lecturer, they will be minted with
 </br>
 </br>
 
-
-[Deployed Site](https://teacho-superfluid.vercel.app/)
-<br />
-[Demo Video](https://youtu.be/88_QtgqihZU)
-<br />
-[Contract Info](https://mumbai.polygonscan.com/address/0x4F500C52fcFE3f640929B254d4294cdC9740aDE1)
-
